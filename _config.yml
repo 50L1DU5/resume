@@ -14,14 +14,13 @@ resume_name:                    "Ian S. Cohee"
 resume_title:                   "Software Developer && Hacker"
 
 # used for the contact button in _layouts/resume.html
-#resume_contact_email:           "ian@cohee.tech"
-resume_contact_email:           "ian.cohee@gmail.com"
+resume_contact_email:           "ian@cohee.tech"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "970.3-zero-8.6984"
 resume_contact_address:         "Fort Collins, Colorado"
 
-resume_header_contact_info:     "Fort Collins, Colorado • 1 970 3-zero-8 6984 • ian [dot] cohee {at} gmail [dot] com"
+resume_header_contact_info:     "Fort Collins, Colorado • 1 970 3-zero-8 6984 • ian {at} cohee [dot] tech"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Greetings! I am a software developer and penetration tester with a personal and professional interest in computer and network security. I live in the gorgeous area of northern Colorado and spend my free time outside, playing with Linux, or my guitars.</p>"
