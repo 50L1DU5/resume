@@ -1,11 +1,15 @@
 # Jobs
 
+# Application Security Engineer
+- company: CrowdStrike
+  position: Application Security Engineer
+  duration: Dec, 2020 &mdash; Present
+  summary: Support Product Security's mission. My daily duties include <ul class="resume-item-list"><li>Threat modeling</li><li>Static source-code analysis</li><li>Dynamic and offensive testing</li><li>Building instrumented code targets for coverage-guided fuzz testing</li></ul>
 # Software Developer
 - company: Secure64 Software Corporation
   position: Software Developer
-  duration: Sep, 2014 &mdash; Present
+  duration: Sep, 2014 &mdash; Dec, 2020
   summary: I perform various software design, implementation, and testing tasks. <ul class="resume-item-list"><li>Domain knowledge in technical and operational aspects of the DNS.</li><li>Designed and implemented several ReSTful APIs.</li></ul>
- 
 - company: Penetration Tester (contracted)
   position: Lead Tester
   duration: Three consecutive years, from 2014 to 2016

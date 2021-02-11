@@ -14,13 +14,13 @@ resume_name:                    "Ian S. Cohee"
 resume_title:                   "Software Developer && Hacker"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "ian@cohee.tech"
+resume_contact_email:           "ian@cohee.website"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "970.3-zero-8.6984"
 resume_contact_address:         "Fort Collins, Colorado"
 
-resume_header_contact_info:     "Fort Collins, Colorado • 1 970 3-zero-8 6984 • ian {at} cohee [dot] tech"
+resume_header_contact_info:     "Fort Collins, Colorado • 1 970 3-zero-8 6984 • ian {at} cohee [dot] website"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Greetings! I am a software developer and penetration tester with a personal and professional interest in computer and network security. I live in the gorgeous area of northern Colorado and spend my free time outside, playing with Linux, or my guitars.</p>"
@@ -29,7 +29,7 @@ resume_header_intro: "<p>Greetings! I am a software developer and penetration te
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -51,7 +51,7 @@ resume_social_links:
   #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/iancohee"
   #resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://cohee.tech"
+  resume_website_url:           "http://cohee.website"
   #resume_medium_url:            "https://medium.com/@<username>"
 resume_print_social_links:      true
 
